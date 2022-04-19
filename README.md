@@ -59,9 +59,8 @@ ______________
 
 --------------------------------------------------------------------------------------------------------------------------------
 ### [Web App Home Interface ](https://medicaap.herokuapp.com/)
- 
 
-<img src="https://user-images.githubusercontent.com/53578487/163748404-32b67c6e-3cc0-4ba9-9fcd-6566df845836.jpeg" width="900"/>
+<img src="https://user-images.githubusercontent.com/53578487/163946901-4097c338-61c0-48d1-b01d-9a88ae497371.jpeg" width="900"/>
 
 --------------------------------------------------------------------------------------------------------------------------------
 ### [Prostate cancer Prediction Interface ](https://medicaap.herokuapp.com/index)
