@@ -36,7 +36,7 @@ ______
 
 ## To have access over Web app
 
-[![Website](http://img.shields.io/badge/App-Website-blue.png)](https://cancer-detection-and-analysis.herokuapp.com/)
+[![Website](http://img.shields.io/badge/App-Website-blue.png)](https://medicaap.herokuapp.com/)
 
 ______________
 
@@ -56,44 +56,44 @@ ______________
 [Watch live successfully Deployment](https://youtu.be/O8lzYBbnDDI)
 
 --------------------------------------------------------------------------------------------------------------------------------
-### [Web App Home Interface ](https://cancer-detection-and-analysis.herokuapp.com/)
+### [Web App Home Interface ](https://medicaap.herokuapp.com/)
  
 
 <img src="https://user-images.githubusercontent.com/53578487/163748404-32b67c6e-3cc0-4ba9-9fcd-6566df845836.jpeg" width="900"/>
 
 --------------------------------------------------------------------------------------------------------------------------------
-### [Prostate cancer Prediction Interface ](https://cancer-detection-and-analysis.herokuapp.com/index)
-#### [Model Accuracy comparison](https://cancer-detection-and-analysis.herokuapp.com/pcpaccuracy)
+### [Prostate cancer Prediction Interface ](https://medicaap.herokuapp.com/index)
+#### [Model Accuracy comparison](https://medicaap.herokuapp.com/pcpaccuracy)
 <img src="https://user-images.githubusercontent.com/53578487/163748748-1527ff3a-a17b-45e9-ae12-48c1788ef0c7.jpeg" width="900" />
 
 
  --------------------------------------------------------------------------------------------------------------------------------
-### [Breast cancer Prediction Interface ](https://cancer-detection-and-analysis.herokuapp.com/bcpindex)
-#### [Model Accuracy comparison](https://cancer-detection-and-analysis.herokuapp.com/bcpaccuracy)
+### [Breast cancer Prediction Interface ](https://medicaap.herokuapp.com/bcpindex)
+#### [Model Accuracy comparison](https://medicaap.herokuapp.com/bcpaccuracy)
 <img src="https://user-images.githubusercontent.com/53578487/163748671-bea94a1e-ac9f-45c1-801d-431eb878ddb3.jpeg" width="900" />
 
 --------------------------------------------------------------------------------------------------------------------------------
-### [Lung cancer Prediction Interface ](https://cancer-detection-and-analysis.herokuapp.com/lcpindex)
-#### [Model Accuracy comparison](https://cancer-detection-and-analysis.herokuapp.com/lcpaccuracy)
+### [Lung cancer Prediction Interface ](https://medicaap.herokuapp.com/lcpindex)
+#### [Model Accuracy comparison](https://medicaap.herokuapp.com/lcpaccuracy)
 <img src="https://user-images.githubusercontent.com/53578487/163748790-c9fcd0fe-f667-42dc-9120-4851dd322b0c.jpeg" width="900" />
 
 
 --------------------------------------------------------------------------------------------------------------------------------
-### [Upload Dataset Interface ](https://cancer-detection-and-analysis.herokuapp.com/demo)
+### [Upload Dataset Interface ](https://medicaap.herokuapp.com/demo)
 <img src="https://user-images.githubusercontent.com/53578487/163749170-a54f3ad3-9542-4bc4-ad33-dd150bf84dea.jpeg" width="900" />
 
 --------------------------------------------------------------------------------------------------------------------------------
-### [Developers Interface ](https://cancer-detection-and-analysis.herokuapp.com/developer)
+### [Developers Interface ](https://medicaap.herokuapp.com/developer)
 <img src="https://user-images.githubusercontent.com/53578487/163749215-b9a26423-9abd-4f89-bd79-c22bec868992.jpeg" width="900" />
 
 
 --------------------------------------------------------------------------------------------------------------------------------
-### [Catch Us Interface ](https://cancer-detection-and-analysis.herokuapp.com/Registration)
+### [Catch Us Interface ](https://medicaap.herokuapp.com/Registration)
 <img src="https://user-images.githubusercontent.com/53578487/163749598-ad9ceb8c-2821-44ec-b082-7909baa18c13.png" width="900" />
 
 
 --------------------------------------------------------------------------------------------------------------------------------
-### [FeedBack Interface ](https://cancer-detection-and-analysis.herokuapp.com/test)
+### [FeedBack Interface ](https://medicaap.herokuapp.com/test)
 <img src="https://user-images.githubusercontent.com/53578487/163749557-22f4c248-be68-4ee6-846a-ec8390c37dd6.png" width="900" />
 
 
